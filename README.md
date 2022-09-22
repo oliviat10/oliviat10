@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Olivia's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliviat10)](https://github.com/oliviat10/github-readme-stats)
+![Olivia's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliviat10&show_icons=true&theme=merko)
 
