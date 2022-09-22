@@ -1,11 +1,11 @@
-### Olivia Terry⁠—@oliviat10
+# Olivia Terry⁠—@oliviat10
 
-### About Me
+## About Me
 Hi! I'm Olivia, a second-year student at the University of Pittsburgh. I'm double majoring in Computer Science and Digital Narrative & Interactive Design, and I'm aspiring to pursue Software Engineering and/or UX Design.
 
-### Get in Touch!
-## - LinkedIn: www.linkedin.com/in/olivia-terry
-## - E-mail: ort13@pitt.edu
+## Get in Touch!
+### - LinkedIn: www.linkedin.com/in/olivia-terry
+### - E-mail: ort13@pitt.edu
 
 <!--
 **oliviat10/oliviat10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
